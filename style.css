@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+    margin: 300px;
+    padding: 0;
+    background: url(https://generated-assets.prod.myninja.ai/50ef5fec-0293-46bf-b671-4aca927668ba/bc035d0d-fb8f-4beb-aeb1-cf05303d5585_0.png);
+}
+
+header {
+    background-color: #3b9d3b;
+    color: white;
+    text-align: center;
+    padding: 1.5rem 0;
+}
+
+nav {
+    background-color: #2e7d2e;
+    padding: 1rem;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 1px solid #2e7d2e;
+    border-radius: 5px;
+    background-color: white;
+}
+
+footer {
+    background-color: #3b9d3b;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.imagem {
+    width: 300px;
+    height: 300px;
+}
