@@ -9,9 +9,9 @@ body {
 
 header {
     background-color: #ffffff00;
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
-    padding: 50px 0;
+    padding: 20px 800;
 }
 
 nav {
@@ -30,7 +30,7 @@ nav ul li {
 }
 
 nav a {
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 
@@ -43,21 +43,16 @@ section {
     padding: 20px;
     border: 1px solid #2e7d2e;
     border-radius: 5px;
-    background-color: white;
+    background-color: #2e7d2e
 }
 
 footer {
     background-color: #3b9d3b00;
-    color: white;
+    color: rgb(14, 9, 9);
     text-align: center;
-    padding: 100px 0;
+    padding: 10px 0;
     position: relative;
-    bottom: 0;
+    bottom: 11px;
     width: 100%;
 }
 
-.imagem {
-    width: 1000px;
-    height: 500px;
-    margin: 10px;
-}
